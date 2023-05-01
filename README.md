@@ -1,5 +1,5 @@
 # Runbilitation
-Exergame Project: For comprehensive information about this project, please consult the `relazione_runbilitation_gruppo_7.pdf` document.
+*Exergame Project:* for comprehensive information about this project, please consult the `relazione_runbilitation_gruppo_7.pdf` document.
 
 ## Getting Started
 The game was created using Unity and Nuitrack SDK.
